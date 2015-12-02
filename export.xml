@@ -6,7 +6,7 @@
 
 <action type="dataflow/convert_parser_csv" method="unparse">
 <var name="delimiter"><![CDATA[,]]></var>
-<var name="enclse"><![CDATA["]]></var>
+<var name="enclose"><![CDATA["]]></var>
 <var name="fieldnames">true</var>
 </action>
 
